@@ -1,0 +1,6 @@
+D:\Brijesh\IOS6FEbServiceExample\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\Brijesh\IOS6FEbServiceExample\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\Brijesh\IOS6FEbServiceExample\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\Brijesh\IOS6FEbServiceExample\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\Brijesh\IOS6FEbServiceExample\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Brijesh\IOS6FEbServiceExample\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
